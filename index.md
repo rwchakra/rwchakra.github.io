@@ -16,4 +16,8 @@ Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at
 2. [Contributing](https://arxiv.org/abs/2105.06724) to the [ML Reproducibility Challenge 2020](https://paperswithcode.com/rc2020).
 </p>
 
+###OTHER
+
+I write (I want to say) frequently on the literature I'm reading in artificial general intelligence, the philosophy of AI, and the nature of computation here. If I'm really feeling like it, I could also probably write on what music I'm listening to (or playing on my Alhambra), or what Pasolini film I'm currently hyping to my friends.
+
 
