@@ -1,2 +1,9 @@
 #theme: jekyll-theme-minimal
 remote_theme: eliottvincent/bay
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Whatever  # <-- whatever.md
