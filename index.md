@@ -1,5 +1,10 @@
-### DP
-
+---
+layout: home
 profile_picture:
-  src: profile-pic.jpg
+  src: IMG_6061.jpg
   alt: website picture
+---
+
+<p>
+  Welcome to mysite!
+</p>
