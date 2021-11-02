@@ -7,3 +7,9 @@ Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at
 
 1. A Review and Refinement of Surprise Adequacy, published at the DeepTest workshop in the International Conference of Software Engineering (ICSE), 2021: https://arxiv.org/abs/2103.05939
 2. The ML Reproducibility Challenge 2020: https://arxiv.org/abs/2105.06724 
+
+### DP
+
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
