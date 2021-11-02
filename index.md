@@ -21,6 +21,6 @@ Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at
 
 <h1 style="font-size:25px;">OTHER</h1>
 <p>
-I write (I want to say) frequently on the literature I'm reading in artificial general intelligence, the philosophy of AI, and the nature of computation here. Some of my deep learning tutorials can be found <a href = "https://medium.com/me/stories/public"> here. If I'm really feeling like it, I could also probably write on what music I'm listening to (or playing on my Alhambra), or what Pasolini film I'm currently hyping to my friends.
+I write (I want to say) frequently on the literature I'm reading in artificial general intelligence, the philosophy of AI, and the nature of computation here. Some of my deep learning tutorials can be found <a href = "https://medium.com/me/stories/public">here</a>. If I'm really feeling like it, I could also probably write on what music I'm listening to (or playing on my Alhambra), or what Pasolini film I'm currently hyping to my friends.
 </p>
 
