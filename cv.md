@@ -4,4 +4,4 @@ title: CV
 slug: /cv
 ---
 
-<a href="username.github.io/folder/document.pdf" target="_blank">CV</a>
+<embed src="https://rwchakra.github.io/RwiddhiCV.pdf" type = "application/pdf" width="100%" height="850px"/>
