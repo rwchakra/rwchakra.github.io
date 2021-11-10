@@ -4,4 +4,4 @@ title: CV
 slug: /cv
 ---
 
-<embed src="https://rwchakra.github.io/Rwiddhi_Chakraborty.pdf" type="application/pdf" width="100%" height="850px"/>
+<a href="username.github.io/folder/document.pdf" target="_blank">CV</a>
