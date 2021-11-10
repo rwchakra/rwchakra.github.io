@@ -4,7 +4,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: CV  # <-- blog.md
+    - name: Blog  # <-- blog.md
     
 footer:
   show_powered_by: true
