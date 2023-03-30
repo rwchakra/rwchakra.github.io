@@ -5,7 +5,7 @@ Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at
 
 ### WORK
 
-1. Paper accepted at CVPR 2023! We <a href="https://arxiv.org/pdf/2303.09352"> propose hyperspherical embeddings to reduce hubness and improve the state of the art in transductive few shot learning. 
+1. Paper accepted at CVPR 2023! We [propose](https://arxiv.org/pdf/2303.09352) hyperspherical embeddings to reduce hubness and improve the state of the art in transductive few shot learning. 
 2. A Review and Refinement of Surprise Adequacy, [published](https://conf.researchr.org/home/deeptest-2021#event-overview) at the DeepTest workshop in the International Conference of Software Engineering (ICSE), 2021.
 3. [Contributing](https://arxiv.org/abs/2105.06724) to the [ML Reproducibility Challenge 2020](https://paperswithcode.com/rc2020):
 
