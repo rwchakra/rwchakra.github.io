@@ -7,7 +7,7 @@ profile_picture:
 
 <h1 style="font-size:25px;">ABOUT</h1>
 <p>
-Hi, I'm Rwiddhi, currently a PhD research fellow with Prof. <a href=""https://sites.google.com/view/michaelkampffmeyer> Michael Kampffmeyer </a> at the Department of Physics and Technology, Arctic University of Norway. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research broadly involves developing new techniques for learning with limitted labelled data - Self Supervised Learning, Few Shot Learning, Foundation Models, etc. 
+Hi, I'm Rwiddhi, currently a PhD research fellow with Prof. <a href="https://sites.google.com/view/michaelkampffmeyer"> Michael Kampffmeyer </a> at the Department of Physics and Technology, Arctic University of Norway. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research broadly involves developing new techniques for learning with limitted labelled data - Self Supervised Learning, Few Shot Learning, Foundation Models, etc. 
 </p>
 
 <h1 style="font-size:25px;">WORK</h1>
