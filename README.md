@@ -1,6 +1,6 @@
 ## ABOUT
 
-Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at the Department of Physics and Technology, Arctic University of Norway. Currently, I am a visiting research scholar at Fernando Torre's group in the Robotics Institute, CMU. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research interests include semi-supervised learning in computer vision, particularly distance metric learning and few shot learning. 
+Hi, I'm Rwiddhi, currently a PhD research fellow with Dr. Michael Kampffmeyer at the Department of Physics and Technology, Arctic University of Norway. Currently, I am a visiting research scholar at Fernando Torre's group in the Robotics Institute, CMU. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research interest broadly lies in learning from limited labelled data - Semi-supervised learning, few-shot learning, and generative modelling. 
 
 
 ### WORK
