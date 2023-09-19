@@ -7,7 +7,7 @@ profile_picture:
 
 <h1 style="font-size:25px;">ABOUT</h1>
 <p>
-Hi, I'm Rwiddhi, currently a PhD research fellow with Prof. <a href="https://sites.google.com/view/michaelkampffmeyer"> Michael Kampffmeyer</a> at the Department of Physics and Technology, Arctic University of Norway. Currently, I am a visiting research scholar at Prof. <a href="http://www.cs.cmu.edu/~ftorre/">Fernando Torre</a>'s group in the Robotics Institute, CMU. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research interest lies in learning from limited labelled data - Few-Shot Learning, Semi-Supervised Learning, and Generative Modelling. 
+Hi, I'm Rwiddhi, currently a PhD research fellow with Prof. <a href="https://sites.google.com/view/michaelkampffmeyer"> Michael Kampffmeyer</a> at the Department of Physics and Technology, Arctic University of Norway. Currently, I am a visiting research scholar at Prof. <a href="http://www.cs.cmu.edu/~ftorre/">Fernando Torre</a>'s group in the Robotics Institute, Carnegie Mellon University. Previously, I spent two wonderful years in Lugano, Switzerland, pursuing an MSc. in Artificial Intelligence at the Università della Svizzera italiana. My research interest lies in learning from limited labelled data - Few-Shot Learning, Semi-Supervised Learning, and Generative Modelling. 
 
 <h1 style="font-size:25px;">WORK</h1>
 <p>
